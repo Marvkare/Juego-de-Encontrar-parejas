@@ -1,2 +1,2 @@
 # Juego-de-Encontrar-parejas
-Es un pequeño proyecto, de un memorama o juego de buscar parejas, con el objetivo de aprender verbos irregulares en igles, 
+ Es un pequeño proyecto, de un memorama o juego de buscar parejas, con el objetivo de aprender verbos irregulares en ingles, use el motor gráfico de unity por que unos de los requerimientos de la aplicación era que fuera una aplicación móvil y al no tener los conocimientos necesarios para poder desarrollar este proyecto en kotlin o en java opte por unity ya que es un motor gráfico en el cual podemos crear juegos multiplataformas de forma muy fácil  
